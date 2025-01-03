@@ -82,10 +82,4 @@ main {
   height: 2000px;
   background-color: #501c63;
   background-image: linear-gradient(#3b1c63, #631c47);
-}
-main #magic {
-  background-image: "https://giphy.com/stickers/sparkles-dkQ1CRCVHUaBi";
-  background-attachment: fixed;
-  background-repeat: repeat;
-  z-index: 100000;
 }/*# sourceMappingURL=lair.css.map */
